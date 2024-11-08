@@ -316,11 +316,10 @@ nav.show .icon-close {
 
 #home .video-embed{
   position: relative;
-  right: 2.93rem;
   border-radius: 0.3rem;  
-  width:85%;
-  max-width: 560px; /* largura máxima que você deseja */
-  height: 315px;
+  width:80%;
+  max-width: 470px; /* largura máxima que você deseja */
+  height: auto;
   aspect-ratio: 16 / 9; /* mantém a proporção 16:9 para o vídeo height="315"*/
 
   
